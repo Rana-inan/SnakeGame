@@ -17,3 +17,4 @@ Thumbs.db
 
 # Optional: logs / outputs
 *.log
+*.h5
